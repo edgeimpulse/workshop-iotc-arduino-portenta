@@ -1,0 +1,5 @@
+*.bin
+*.hex
+*.map
+*.elf
+*.DS_Store
